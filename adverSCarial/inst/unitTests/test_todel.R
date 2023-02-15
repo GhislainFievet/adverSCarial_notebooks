@@ -1,0 +1,1 @@
+checkTrue(todel(3, 4) == 7)
